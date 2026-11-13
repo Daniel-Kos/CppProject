@@ -4,11 +4,11 @@ project(untitled1)
 set(CMAKE_CXX_STANDARD 26)
 add_compile_options(-fexec-charset=CP866)
 
-add_executable(untitled1 greet.cpp)
+add_executable(untitled1 "Session 1/greet.cpp")
 
-add_executable(hello hello.cpp)
+add_executable(hello "Session 1/hello.cpp")
 
-add_executable(dialog dialog.cpp)
+add_executable(dialog "Session 1/dialog.cpp")
 
 add_executable(Listing_A "Session 2. Practice. Outputting Data/Listing/Listing A.cpp")
 
