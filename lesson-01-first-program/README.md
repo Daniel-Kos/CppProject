@@ -11,7 +11,6 @@ Goal: master the write, compile, run cycle and learn to read compiler messages.
 | `hello.cpp`  | Task 1 | Prints `Hello, world!` |
 | `greet.cpp`  | Task 2 | Prints a name and a group on two lines |
 | `dialog.cpp` | Task 3* | Asks for a name and a birth year, prints a greeting and an approximate age |
-| `build.sh`   | - | Builds all three programs into `bin/` |
 
 ## Build and run
 
