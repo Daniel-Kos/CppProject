@@ -2,18 +2,18 @@
 
 ## Warm-up
 
-### 1 // and /* ... */
+### 1. // and /* ... */
 `//` is a single-line comment, while `/* ... */` is a multi-line comment.
 
 The former is more convenient for short notes or for explaining a specific line of code.
 
 The latter is used for disabling large blocks of code, writing extensive text descriptions, or creating documentation.
 
-### 2 Instruction
+### 2. Instruction
 
 The program will print: `5+3=8` (and move the cursor to a new line).
 
-### 3 endl and \n
+### 3. endl and \n
 
 Similarity: Both insert a newline character and move the cursor to the next line in output streams (e.g., `std::cout`).
 
@@ -23,7 +23,7 @@ Performance:`\n` is significantly faster because it avoids extra system calls tr
 
 Best Practice: Prefer `\n` by default. Use `std::endl` only when you explicitly need immediate output—such as during debugging or critical error logging before a potential crash.
 
-### 4 Three type error
+### 4. Three type error
 
 
 | Error Type | Stage of Occurrence | Program Behavior |
@@ -32,7 +32,7 @@ Best Practice: Prefer `\n` by default. Use `std::endl` only when you explicitly 
 | **Runtime Error** | After launch (at runtime) | The program launches successfully, but crashes or freezes when executing the faulty code. |
 | **Logical Error** | After launch (at runtime) | The program runs without crashing, but produces an incorrect result or unexpected behavior. |
 
-### 5 What is?
+### 5. What is?
 
 `7 / 2` = `3`
 
@@ -59,6 +59,7 @@ Up next: variables and types.
 
 ## Task 2. Banner
 
+**Program output:**
 ```text
 ************************
 * Kosmacev, RPO-25/1   *
