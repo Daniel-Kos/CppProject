@@ -1,5 +1,5 @@
 # Session 8 Type conversion
-***
+
 ## Task 1 Truncation before one’s eyes
 
 ```text
@@ -10,7 +10,7 @@
 ```
 
 After the program was run, it yielded the **same values**.
-***
+
 ## Task 2 Average score calculated in two ways
 
 **Program output:**
@@ -18,7 +18,7 @@ After the program was run, it yielded the **same values**.
 Integer average: 4
 Float average: 4.66667
 ```
-***
+
 ## Task 3 Timesheet — a comprehensive project
 
 ### Investigation: Why 20 minutes is printed instead of 21 without `+ 0.5`
