@@ -1,4 +1,4 @@
-# Lesson 10 Report
+# Lesson 10
 
 ## Task 1 Predictions
 A=0 B=0 &&=0 || =0
